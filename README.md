@@ -9,7 +9,8 @@
 - PiSugar 2 battery
 
 ## Parts List 
-*(You can support this project by clicking on these affiliate links which doesn't cost you anything. You can also [buy me a coffee](https://buymeacoffee.com/cjtrowbridge).)*
+*You can support this project by clicking on these affiliate links which doesn't cost you anything.  *
+*You can also [buy me a coffee](https://buymeacoffee.com/cjtrowbridge).*
 
 - Recycled robotic RV satellite dish (motorized or fixed/manual)
 - [Raspberry Pi Zero 2 W](https://amzn.to/45SZN9K)
