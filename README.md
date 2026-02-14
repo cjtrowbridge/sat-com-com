@@ -27,7 +27,7 @@
 
 The basic RF hardware pipeline is:
 
-`(custom feed option) -> (Nooelec SAWbird GOES LNA + SAW filter) -> (RTL-SDR)`
+`(custom feed option) -> (filter + amplifier) -> (sdr)`
 
 The system must run `rtl_tcp` so other devices on the network can access SDR data.
 
