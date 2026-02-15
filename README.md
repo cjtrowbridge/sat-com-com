@@ -66,3 +66,7 @@ If continuous ingest and local serving are stable, build a small web interface t
 - Hardware variability is expected; not every dish has compatible motors or control electronics.
 - TUI workflows should support both fully automated and mostly manual station operation.
 - The web interface should at a minimum have information like battery status, current rssi, etc for basic monitoring without needing to ssh into the device.
+
+## Related Projects
+
+[https://github.com/saveitforparts/Carryout-Radio-Telescope](https://github.com/saveitforparts/Carryout-Radio-Telescope)) A similar project by saveitforparts which focuses primarily on scanning the sky for radio sources.
